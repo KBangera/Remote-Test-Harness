@@ -1,0 +1,12 @@
+*****************************************************************
+In App Domain......
+
+ Starting in AppDomain TestExecutive.vshost.exe
+
+ Child App Domain Created......
+
+ Testing TestDriver2
+
+ Exception thrown: Attempted to divide by zero.
+
+ Test failed

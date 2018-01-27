@@ -1,0 +1,27 @@
+﻿<Window x:Class="TestHarnessGUI.MainWindow"
+        x:Name="TestHarnessGUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestHarnessGUI"
+        mc:Ignorable="d"
+        Title="Test Harness" Height="500" Width="600" Background="AliceBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="183*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+        <Button Margin="32,40,227,400" Name="btnCode" Click="AddTestDriverClicked">Select Test Driver
+        </Button>
+        <ListBox Margin="32,94,227,295" Name="TestDriverListBox" />
+        <Button Margin="158,40,101,400" Name="btnDriver" Click="AddTestCodeClicked">Select Test Code
+        </Button>
+        <ListBox Margin="158,94,101,295" Name="TestCodeListBox" />
+
+        <Button Margin="343,85,136,355" Name="btnRun" Click="RunButtonClicked" Grid.ColumnSpan="2">Run Test Harness
+        </Button>
+        <Button Margin="343,155,136,285" Name="btnLog" Click="LogButtonClicked" Grid.ColumnSpan="2" Content="Show Log"/>
+        <Button Margin="343,219,136,221" Name="btnRefresh" Click="RefreshButtonClicked" Grid.ColumnSpan="2" Content="Reset"/>
+    </Grid>
+</Window>

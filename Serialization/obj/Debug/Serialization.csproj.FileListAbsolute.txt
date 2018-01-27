@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.exe.config
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\bin\Debug\Serialization.pdb
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\obj\Debug\Serialization.exe
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Serialization\obj\Debug\Serialization.pdb
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\bin\Debug\Serialization.exe
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\bin\Debug\Serialization.pdb
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\obj\Debug\Serialization.exe
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Serialization\obj\Debug\Serialization.pdb

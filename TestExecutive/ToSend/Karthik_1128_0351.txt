@@ -1,0 +1,26 @@
+*****************************************************************
+In App Domain......
+
+ Starting in AppDomain TestExecutive.exe
+
+ Child App Domain Created......
+
+ Testing TestDriver1
+
+ Radar is a palindrome
+
+ Test code tested succesfully
+
+ Test passed
+*****************************************************************
+In App Domain......
+
+ Starting in AppDomain TestExecutive.exe
+
+ Child App Domain Created......
+
+ Testing TestDriver2
+
+ Exception thrown: Attempted to divide by zero.
+
+ Test failed

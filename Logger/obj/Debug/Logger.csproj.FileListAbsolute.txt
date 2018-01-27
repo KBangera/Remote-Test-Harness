@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Logger\bin\Debug\Logger.dll.config
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Logger\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Logger\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Logger\obj\Debug\Logger.dll
+\\vmware-host\Shared Folders\Documents\SMA\project 4\karthik\Remote Test Harness (1)\Logger\obj\Debug\Logger.pdb
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Logger\bin\Debug\Logger.dll.config
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Logger\bin\Debug\Logger.dll
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Logger\bin\Debug\Logger.pdb
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Logger\obj\Debug\Logger.dll
+C:\Users\yogendra\Desktop\Homework 3\Karthik Bangera_Remote Test Harness\Remote Test Harness\Logger\obj\Debug\Logger.pdb

@@ -1,0 +1,14 @@
+*****************************************************************
+In App Domain......
+
+ Starting in AppDomain TestExecutive.exe
+
+ Child App Domain Created......
+
+ Testing TestDriver1
+
+ Radar is a palindrome
+
+ Test code tested succesfully
+
+ Test passed
